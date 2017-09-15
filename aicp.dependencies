@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "LineageOS/android_kernel_htc_msm8994",
+    "target_path": "kernel/htc/msm8994"
+  },
+  {
+    "repository": "LineageOS/aandroid_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "LineageOS/aandroid_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  }
+]
